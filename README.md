@@ -1,2 +1,2 @@
 # Ejemplo-banco
-# Creado por Andres Suarez Rincon
+Creado por Andres Suarez Rincon
